@@ -18,6 +18,11 @@ A collection of insightful dashboards leveraging publicly available datasets, cr
 - 🎯 Purpose: Visualize sales performance across different regions and time periods.  
 - 📈 Insights: Interactive reports showing sales by region, product trends, and growth opportunities.
 
+- ### 4. Pizza Sales Dashboard
+- 📚 Dataset: Adventure Works
+- 🎯 Purpose: Visualize sales performance across different parameters.  
+- 📈 Insights: Interactive reports showing daily/monthly sales trend, sales by category, sellers etc.
+
 ## ⚡ How to View
 Download the `.pbix` files in this repository and open them in Power BI Desktop (free tool) to explore the interactive dashboards.
 
