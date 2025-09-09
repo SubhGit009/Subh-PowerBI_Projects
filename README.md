@@ -1,10 +1,25 @@
 # Subh-PowerBI_Projects
-This repository contains some insightful dashboards leveraging Publicly available datasets that I prepared for data analysis projects.
+A collection of insightful dashboards leveraging publicly available datasets, created to showcase data analysis and visualization capabilities using Power BI.
 
-- Report 1: Churn Analysis Dashboard
-- Report 2: Hospital Wait List Analysis
-- Report 3: Mobile Sales_Dashboard
+## 📊 Reports Overview
 
-Download the .pbix files and open in Power BI Desktop to explore.
+### 1. Churn Analysis Dashboard
+- 📚 Dataset: Kaggle
+- 🎯 Purpose: Analyze customer churn patterns and identify key factors leading to customer attrition.  
+- 📈 Insights: Visualizes customer retention trends, churn prediction, and actionable metrics for business improvement.
 
-Special thanks to @Pivotalstats for sharing such tutorials. 
+### 2. Hospital Wait List Analysis
+- 📚 Dataset: WHO Stat 
+- 🎯 Purpose: Analyze waitlist data to understand bottlenecks in hospital appointment systems.  
+- 📈 Insights: Tracks patient appointment times, waitlist trends, and suggests process improvements.
+
+### 3. Mobile Sales Dashboard
+- 📚 Dataset: Kaggle  
+- 🎯 Purpose: Visualize sales performance across different regions and time periods.  
+- 📈 Insights: Interactive reports showing sales by region, product trends, and growth opportunities.
+
+## ⚡ How to View
+Download the `.pbix` files in this repository and open them in Power BI Desktop (free tool) to explore the interactive dashboards.
+
+🙏 Special thanks to @Pivotalstats for sharing such valuable tutorials.
+
